@@ -1,0 +1,122 @@
+---
+title: "Palmer Penguins"
+author: "Kenny"
+date: "2024-09-14"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+Analyzing a dataset called Palmer Penguins. The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
+
+```{r}
+
+library(palmerpenguins)
+library(skimr)
+library(skimr)
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(skimr)
+library(tidyverse)
+
+```
+
+Get a summary of the data (1)
+
+```{r}
+skim_without_charts(penguins)
+```
+
+Get a summary of the data (2)
+
+```{r}
+colnames(penguins)
+```
+
+Get a summary of the data (3)
+
+```{r}
+glimpse(penguins)
+```
+
+Counting the number of species shows us there are 3 in total as shown from the skim function above
+
+```{r}
+penguins %>%
+  count(species)
+```
+
+
+Leads dive into some calculation
+
+Mean bill length my sex. Male penguins have longer and deeper bills, longer flippers, and weight more on average.
+
+```{r}
+penguins %>%
+  group_by(sex) %>%
+  summarise(mean(bill_length_mm), mean(bill_depth_mm), mean(flipper_length_mm),mean(body_mass_g))
+```
+
+
+The Island of Biscoe has the penguins wit the most mass
+
+```{r}
+penguins %>%
+  drop_na() %>%
+  group_by(island) %>%
+  summarise(mean(body_mass_g))
+```
+
+
+Lets test the correlation between bill length and bill depth. Appears to be weak and negative.
+
+```{r}
+bl <- as.numeric(penguins$bill_length_mm)
+bd <- as.numeric(penguins$bill_depth_mm)
+
+cor.test(bl,bd)
+```
+
+
+
+Lets plot some data
+
+```{r}
+
+ggplot(data = penguins) +
+  geom_bar(mapping = aes(x = sex))
+
+ggplot(data = penguins) +
+  geom_bar(mapping = aes(x = sex, fill = species))
+
+ggplot(data = penguins) +
+  geom_point(mapping = aes(x = body_mass_g, y = bill_length_mm ))
+
+ggplot(data = penguins) +
+  geom_point(mapping = aes(x = body_mass_g, y = bill_length_mm, color = island ))+
+  facet_wrap(~island) +
+  labs(title = "Penguin Mass and Bill Length Relationship", subtitle = "By Island") 
+
+ggplot(data = penguins) +
+  geom_point(mapping = aes(x = body_mass_g, y = bill_length_mm, color = island ))+
+  facet_wrap(~island) +
+  labs(title = "Penguin Mass and Bill Length Relationship", subtitle = "By Island")
+
+ggplot(data = penguins) +
+  geom_point(mapping = aes(x = body_mass_g, y = bill_length_mm, color = island ))+
+  facet_wrap(~island) +
+  labs(title = "Penguin Mass and Bill Length Relationship", subtitle = "By Island", x = "body mass in grams", y = "bill length in mm")  
+
+  
+```
+
+
+
+
+# Thanks for analyzing with me.
+
+
+
+
