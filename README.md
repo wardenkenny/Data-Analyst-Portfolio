@@ -18,7 +18,7 @@ print("Hello")
 
 ```
 
-# Porfolio
+# Portfolio
 
 ## -SQL
 
