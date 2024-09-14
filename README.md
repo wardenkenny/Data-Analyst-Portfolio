@@ -22,7 +22,7 @@ print("Hello")
 
 ## -SQL
 
-## -$
+## -R
 
 ## -Spreadsheets
 
