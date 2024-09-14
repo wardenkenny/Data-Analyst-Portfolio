@@ -36,4 +36,5 @@ Email: KJ.JonesKenny@gmail.com
 
 ## -Tableau
 
+[Public Profile](https://public.tableau.com/app/profile/kenneth.jones4649/vizzes)
 [Global CO2 Emissions by Country](https://public.tableau.com/views/GlobalCO2emissions_17248556762510/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
