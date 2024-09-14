@@ -20,8 +20,12 @@ print("Hello")
 
 # Porfolio
 
-## Spreadsheets
+## -SQL
+
+## -$
+
+## -Spreadsheets
 
 [Netflix 2023 Enagement Report](https://docs.google.com/spreadsheets/d/1a5SsFNRZbNay5p-kdD_tj8Vta2ch-a3-uyATaDmyxdU/edit?usp=sharing)
 
-## Tableau
+## -Tableau
