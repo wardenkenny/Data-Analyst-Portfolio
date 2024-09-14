@@ -1,13 +1,12 @@
-Hello My name is Kenneth Jones and I am a data analyst.
+Hello my name is Kenneth Jones and I am a data analyst.
 
-I had a passion for political science that lead me getting  BS in poltical science from Florida State University. I worked in Washington DC as an assistant poltical consultant where I enojyed the more analytical side poltics inclusing tracking PAC 
-data, organizing dornor infoprmation in excel, and providing insights to members of congress. That newfpind interest in proving inights based in data this lead  to get me getting my masters in marketing  and the Google Data Analytics certiciate.
+I had a passion for political science that lead me getting a BS in political science from Florida State University. I worked in Washington DC as an assistant political consultant where I enojyed the more analytical side of poltics inclusing tracking PAC data, organizing donor information in Excel, and providing insights to members of congress based on data. That newfound interest in providing inights based in data lead  to get me getting my masters in marketing and the Google Data Analytics certiciate.
 
-I have experience in SQL, R, Tableaa, and spreadsheets.
+I am experienced in SQL, R, Tableau, and spreadsheets. My portfolio is below.
 
-In my free time I enjot video games and going to the gym.
+In my free time I enjoy video games and going to the gym.
 
-Loooking forward to learning more on my data analyst journey and eventually progressing to data science and data management.
+Looking forward to learning more on my data analyst journey and eventually progressing to data science and data management.
 
 Thanks for coming
 
@@ -18,3 +17,10 @@ Thanks for coming
 print("Hello")
 
 ```
+
+#Porfolio
+
+##Spreadsheets
+[Netflix 2023 Enagement Report](https://docs.google.com/spreadsheets/d/1a5SsFNRZbNay5p-kdD_tj8Vta2ch-a3-uyATaDmyxdU/edit?usp=sharing)
+
+##Tableau
