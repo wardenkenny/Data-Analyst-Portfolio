@@ -11,6 +11,7 @@ Looking forward to learning more on my data analyst journey and eventually progr
 Thanks for coming
 
 Email: KJ.JonesKenny@gmail.com
+  
 [LinkedIn](https://www.linkedin.com/in/kenneth-jones-31a228266/)
 
 
