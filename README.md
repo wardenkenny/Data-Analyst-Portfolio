@@ -30,6 +30,8 @@ Email: KJ.JonesKenny@gmail.com
 
 ## -R
 
+[Using R  to analyze penguins](palmerpdf.pdf)
+
 ## -Spreadsheets
 
 [Netflix 2023 Engagement Report](https://docs.google.com/spreadsheets/d/1a5SsFNRZbNay5p-kdD_tj8Vta2ch-a3-uyATaDmyxdU/edit?usp=sharing)
