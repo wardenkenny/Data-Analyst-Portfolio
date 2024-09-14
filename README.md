@@ -24,7 +24,7 @@ Email: KJ.JonesKenny@gmail.com
 
 ![google-data-analytics-professional-certificate 2](https://github.com/user-attachments/assets/908b761e-a714-443c-ad5d-e4e3a0f44269)
 
-
+[Google Data Analytics Certifiction](https://www.credly.com/badges/02013599-ad78-48b8-9239-8e4eb963f785/public_url)
 
 # Portfolio
 
