@@ -22,6 +22,7 @@ Email: KJ.JonesKenny@gmail.com
 [LinkedIn](https://www.linkedin.com/in/kenneth-jones-31a228266/)
 
 
+google-data-analytics-professional-certificate.2.png
 
 
 # Portfolio
