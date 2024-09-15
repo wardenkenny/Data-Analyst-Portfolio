@@ -30,6 +30,8 @@ Email: KJ.JonesKenny@gmail.com
 
 ## -SQL
 
+[Analyzing penguins in BigQeury](penguinsportfolio.sql)  
+
 ## -R
 
 [Using R  to analyze penguins](palmerpdf.pdf)
