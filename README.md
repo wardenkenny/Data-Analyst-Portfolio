@@ -11,7 +11,7 @@ print("Hello")
 
 Hello my name is Kenneth Jones and I am a data analyst.
 
-I had a passion for political science that lead me getting a BS in political science from Florida State University. I worked in Washington DC as an assistant political consultant where I enojyed the more analytical side of poltics inclusing tracking PAC data, organizing donor information in Excel, and providing insights to members of congress based on data. That newfound interest in providing inights based in data lead  to get me getting my masters in marketing and the Google Data Analytics certiciate.
+I had a passion for political science that lead me getting a BS in political science from Florida State University. I worked in Washington DC as an assistant political consultant where I enojyed the more analytical side of poltics such as tracking PAC data, organizing donor information in Excel, and providing insights to members of congress based on voter data. That newfound interest in data lead  to get me getting my masters in marketing and the Google Data Analytics certiciate.
 
 I am experienced in SQL, R, Tableau, and spreadsheets. My portfolio is below.
 
