@@ -39,7 +39,7 @@ Email: KJ.JonesKenny@gmail.com
 
 ## -R
 
-[Using R  to analyze penguins](palmerpdf.pdf)
+[Using R  to analyze penguins](palmerpdf.pdf)  
 [Using R to analyze my gym routine](gymroutine.pdf)
 
 ## -Spreadsheets
