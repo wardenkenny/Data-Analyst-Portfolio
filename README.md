@@ -35,6 +35,7 @@ Email: KJ.JonesKenny@gmail.com
 ## -SQL
 
 [Analyzing penguins in BigQeury](penguinsportfolio.sql)  
+[Creating a Workout Routine in SQL](workoutportfolio.sql)
 
 ## -R
 
