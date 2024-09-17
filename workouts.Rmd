@@ -1,0 +1,28 @@
+---
+title: "gymroutine"
+author: "Kenny"
+date: "2024-09-17"
+output: html_document
+---
+
+Lets analyze my gym routine
+
+
+How many different workouts do I in total? 21
+
+```{r}
+data("workouts.csv")
+library(tidyverse)
+w <- read.csv("workouts.csv")
+n_distinct(w$Excercise)
+
+```
+
+What is the max, min, and average amount of reps that I do for all excercies?
+
+```{r}
+w %>%
+  summarise(max(w$Reps),min(w$Reps),mean(w$Reps))
+```
+
+
